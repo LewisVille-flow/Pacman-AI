@@ -1,9 +1,12 @@
 # Pacman Search Project & Pacman AI
-
 ### Purpose of Project
 탐색 알고리즘(BFS, DFS, Greedy)과 MDP and Value iteration, Q-learning을 이용하여 Pacman AI 구현을 완성하는 Mid & Final Term project(2022-1 CSE4007). 
 - lecture note from pf: https://sites.google.com/hanyang.ac.kr/2021ai
 - Pacman and autograding is technically based on http://ai.berkeley.edu.
+​<p align="center">  
+<img src="https://user-images.githubusercontent.com/76833405/216820615-29f412c9-755f-4a31-94c3-80aa2bf39901.gif">*Pacman search in mediumScaryMaze*
+</p>
+
 
 # Project Task description
 
@@ -67,3 +70,6 @@ If you want to watch 10 training games to see what's going on, use the command:
 python2.7 pacman.py -p PacmanQAgent -n 10 -l smallGrid -a numTraining=10
 ```
 
+### Update
+2022.06 Project 완료
+2023.02 Project Decription update
